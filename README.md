@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm **Sabiha** (aka [@Sabiha999](https://github.com/Sabiha999))
 
-### 🚀 Full Stack Web Developer | Physics Enthusiast | Brand Ambassador at DataCrumbs
+### 🚀 Full Stack Web Developer | Physics Enthusiast | Web Developer at Aptech
 
 ---
 
@@ -43,8 +43,8 @@
 ---
 
 ### 📫 **How to Reach Me:**
-- 📧 **Email:** sabiha999@gmail.com
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/sabiha999) | [**GitHub**](https://github.com/Sabiha999) | [**Facebook - Emars Collection**](https://www.facebook.com/EmarsCollection)
+- 📧 **Email:** sabihazulfiqar999@gmail.com
+- 💼 [**LinkedIn**](www.linkedin.com/in/sabiha-zulfiqar-ahmed-70a292293) | [**GitHub**](https://github.com/Sabiha999) | [**Instagram - @sabiha_zulfiqar0**](https://www.facebook.com/EmarsCollection)
 
 ---
 
